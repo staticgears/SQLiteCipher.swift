@@ -10,5 +10,5 @@ pod 'SQLCipher'
 # pod 'SQLite.swift', '~> 0.10.1'
 pod 'SQLite.swift', 
   git: "https://github.com/staticgears/SQLite.swift.git",
-  commit: 'd6e8c205c980d51d09cb75488bcd99b2b07d875b'
+  branch: 'cocoapods-xcode-7-3'
     
